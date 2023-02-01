@@ -9,7 +9,7 @@
 
 - 📝 Have visit on my blog Site [https://hashnode.com/@Rashiporwal](https://hashnode.com/@Rashiporwal)
 
-- 💬 Ask me about **Django and new tech stacks.**
+- 💬 Ask me about **Android and new tech stacks.**
 
 - 📫 How to reach me **porwalrashi786@gmail.com**
 
