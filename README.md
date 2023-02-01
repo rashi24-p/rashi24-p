@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a Somphomore **from Bundelkhand University.**
 
-- 🌱 I’m currently learning **Mern Stack Development.**
+- 🌱 And learning **Mern Stack Development.**
 
 - 📝 Have visit on my blog Site [https://hashnode.com/@Rashiporwal](https://hashnode.com/@Rashiporwal)
 
