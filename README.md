@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rashiporwal1" target="blank"><img src="https://img.shields.io/twitter/follow/rashiporwal1?logo=twitter&style=for-the-badge" alt="rashiporwal1" /></a> </p>
 
-- 🔭 I’m currently a Somphomore **from Bundelkhand University.**
+- 🔭 I’m currently a third year student **at Bundelkhand University.**
 
 - 🌱 And learning **Mern Stack Development.**
 
@@ -15,6 +15,8 @@
 - 💬 Ask me about **Android and new tech stacks.**
 
 - 📫 How to reach me **porwalrashi786@gmail.com**
+
+-  Connect me on Linkedin - **https://www.linkedin.com/in/rashiporwal/**
 
 - ⚡ Fun fact about me **,I love to explore new things and playing Chess.**
 
