@@ -1,5 +1,5 @@
 <h1 align="center">Hello Amazing people👋, This is Rashi Porwal</h1>
-<h3 align="center">UI/UX Designer || Open-Source Contributor</h3>
+<h3 align="center">Mern Stack Dev || Google DSC Lead"23 || Open-Source Contributor</h3>
 <h2 align="center">Great to see you on my profile🤗.</h2>
 <img align="right" alt="" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
 
