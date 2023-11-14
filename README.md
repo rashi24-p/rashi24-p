@@ -51,6 +51,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50"/>
 </p>
 
