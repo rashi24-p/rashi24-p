@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150"/>
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150"/></p>
 <h1 align="center">Hello Amazing people👋, This is Rashi Porwal</h1>
 <h3 align="center">Mern Stack/Python Dev || Google DSC Lead"23 || Open-Source Contributor</h3>
 <h2 align="center">Great to see you on my profile🤗.</h2>
