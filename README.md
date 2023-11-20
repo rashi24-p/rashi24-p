@@ -53,13 +53,15 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rashi24-p&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
+<br><br><br><br><br><br>
+
 <hr>
 
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+<h3 align="center"><img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="20px" height="30px"  alt="Git"/>&nbsp;Thank you for visiting my profile👩‍🚀I counted you,as my profile visitor.🪄)</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{rashi24-p}/count.svg" alt="rashi24-p :: Visitor's Count" /></p>
 
-<hr>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=57"/>
 </p>
