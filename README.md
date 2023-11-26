@@ -3,7 +3,6 @@
 <h3 align="center">Mern Stack/Python Dev || Google DSC Lead"23 || Open-Source Contributor</h3>
 <h2 align="center">Great to see you on my profile🤗.</h2>
 <img align="right" alt="" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashiporwal1&label=Profile%20views&color=0e75b6&style=flat" alt="Rashi Porwal" /> </p>
 <p align="left"><a href="https://twitter.com/rashiporwal1" target="blank"><img src="https://img.shields.io/twitter/follow/rashiporwal1?logo=twitter&style=for-the-badge" alt="rashiporwal1" /></a></p>
 
