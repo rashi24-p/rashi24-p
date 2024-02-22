@@ -46,14 +46,10 @@
 
 <p>
 <a href="https://github.com/rashi24-p"><span>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashi24-p&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rashi24-p&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashi24-p&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
 </span></a> </p>
-
-<br><br><br><br><br><br>
-
+<br>
 <hr>
-
 <h3 align="center"><img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="20px" height="30px"  alt="Git"/>&nbsp;Thank you for visiting my profile👩‍🚀I counted you,as my profile visitor.🪄)</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{rashi24-p}/count.svg" alt="rashi24-p :: Visitor's Count" /></p>
