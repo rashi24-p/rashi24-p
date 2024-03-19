@@ -42,13 +42,28 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-
-<p>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a><p>
 <a href="https://github.com/rashi24-p"><span>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashi24-p&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashi24-p&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 </span></a> </p>
-<br>
+<h3 align="left">📝 Latest Blog Posts</h3>
+<p align="left">
+  <a href="https://raship.hashnode.dev/as-a-junior-developerwhat-should-you-need-to-know#cl9srq35f01c4fwnvdcmy59ro">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666932488250/owhMLxwPj.png?auto=compress,format&format=webp" alt="Blog Title 1" width="220"/>
+  </a>
+  <a href="https://medium.com/@porwalrashi786/in-google-cloud-study-jam-my-experience-as-a-facilitator-42b5771e6ae0">
+    <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*puH6QvCGGmDyUf17jCHRwQ.gif" alt="Blog Title 2" width="390"/>
+  </a>
+  <a href="https://medium.com/@porwalrashi786/story-of-error-947526ddf023">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8RqGMci0PgLlv3wV8vY6ug.jpeg" alt="Blog Title 3" width="270"/>
+  </a>
+</p>
+<p align="center">
+  FOR MORE BLOGS⬇️<br><br>
+  <a href="https://hashnode.com/@Rashiporwal" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Rashi Porwal" height="40" />
+  </a>
+</p>
 <hr>
 <h3 align="center"><img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="20px" height="30px"  alt="Git"/>&nbsp;Thank you for visiting my profile👩‍🚀I counted you,as my profile visitor.🪄)</h3>
 
