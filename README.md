@@ -1,24 +1,20 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150"/></p>
-<h1 align="center">Hello Amazing people👋, This is Rashi Porwal</h1>
-<h3 align="center">Mern Stack/Python Dev || Google DSC Lead"23 || Open-Source Contributor</h3>
+<h1 align="center">Hey Teckies!</h1>
+<h3 align="center">Frontend Dev || Google DSC Lead"23 </h3>
 <h2 align="center">Great to see you on my profile🤗.</h2>
 <img align="right" alt="" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashiporwal1&label=Profile%20views&color=0e75b6&style=flat" alt="Rashi Porwal" /> </p>
 <p align="left"><a href="https://twitter.com/rashiporwal1" target="blank"><img src="https://img.shields.io/twitter/follow/rashiporwal1?logo=twitter&style=for-the-badge" alt="rashiporwal1" /></a></p>
 
-- 🔭 I’m currently a third year student **at Bundelkhand University.**
+- 🔭 I’m currently a student .
 
-- 🌱 And learning **Mern Stack Development.**
+- 🌱 And learning **Full-Stack Book**
 
 - 📝 Have visit on my blog Site [https://hashnode.com/@Rashiporwal](https://hashnode.com/@Rashiporwal)
-
-- 💬 Ask me about **Android and new tech stacks.**
 
 - 📫 How to reach me **porwalrashi786@gmail.com**
 
 -  Connect me on Linkedin - **https://www.linkedin.com/in/rashiporwal/**
-
-- ⚡ Fun fact about me **,I love to explore new things and playing Chess.**
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
