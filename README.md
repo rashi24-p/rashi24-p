@@ -7,9 +7,7 @@
 <p align="left"><a href="https://twitter.com/rashiporwal1" target="blank"><img src="https://img.shields.io/twitter/follow/rashiporwal1?logo=twitter&style=for-the-badge" alt="rashiporwal1" /></a></p
 
 - 📝 Have visit on my blog Site [https://hashnode.com/@Rashiporwal](https://hashnode.com/@Rashiporwal)
-
 - 📫 How to reach me **rashiporwal.work@gmail.com**
-
 -  Connect me on LinkedIn - **https://www.linkedin.com/in/rashiporwal/**
 
 <h3 align="left">📝 Latest Blog Posts</h3>
